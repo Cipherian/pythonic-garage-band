@@ -1,6 +1,6 @@
 # Pythonic band
 
-Lab02- Modules and Testing
+Lab04- Pythonic-Garage-Band
 
 **_Author: Daniel Brott_**
 
